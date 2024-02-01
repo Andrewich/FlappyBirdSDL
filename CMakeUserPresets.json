@@ -1,0 +1,9 @@
+{
+    "version": 4,
+    "vendor": {
+        "conan": {}
+    },
+    "include": [
+        "C:\\Users\\\u041c\u0430\u043a\u0441\u0438\u043c\\Sources\\FlappyBirdSDL\\build\\CMakePresets.json"
+    ]
+}
